@@ -4,7 +4,7 @@ Hi 👋 My name is Tyler Carter
 Maths Graduate
 --------------
 
-I've taken an eight week Data skills bootcamp to gain proficiency in software and systems useful for Data related jobs.
+I've taken an eight week Data skills bootcamp to gain proficiency in software and systems useful for Data related jobs. I have an affinity for technical work, as i have grown up in a digital world. I'm looking to get a job in Data.
 
 * 🌍  I'm based in North East England
 * ✉️  You can contact me at [tc285184@gmail.com](mailto:tc285184@gmail.com)
