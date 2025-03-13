@@ -8,7 +8,7 @@ I've taken an eight week Data skills bootcamp to gain proficiency in software an
 
 * 🌍  I'm based in North East England
 * ✉️  You can contact me at [tc285184@gmail.com](mailto:tc285184@gmail.com)
-* 🧠  I'm learning Python and Tableau
+* 🧠  I'm learning Python, Azure, PowerBI and Tableau
 
 ### Skills
 
